@@ -7,7 +7,7 @@ Created on Tue Dec 21 17:28:01 2021
 """
 
 
-print("Test application ....")
+print("Test applications ....")
 
 
 print("Testing still ... ")
