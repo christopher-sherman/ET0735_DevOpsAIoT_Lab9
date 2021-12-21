@@ -10,4 +10,4 @@ Created on Tue Dec 21 17:28:01 2021
 print("Test applications ....")
 
 
-print("Testing still yeahssss ... ")
+print("Testing still yeahs ... ")
