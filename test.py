@@ -12,4 +12,4 @@ print("Test applications ....")
 
 print("Testing still yeahs ... ")
 
-print("New features");
+print("New featuress");
