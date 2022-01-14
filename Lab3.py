@@ -36,7 +36,7 @@ def bubble_sort(arr, sorting_order):
     else:
         arr_result = -1
 
-    return arr_result
+    return -1
 
 def main():
     # Driver code to test above
