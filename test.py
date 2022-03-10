@@ -14,4 +14,4 @@ print("Testing still yeahs ... ")
 
 print("Testing testing 123")
 
-print("Add new function ...")
+print("Add new functions ...")
